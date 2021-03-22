@@ -85,3 +85,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://friendly-daffodil-85c5a.netlify.app'
